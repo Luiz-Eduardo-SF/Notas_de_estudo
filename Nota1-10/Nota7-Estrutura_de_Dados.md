@@ -71,5 +71,4 @@ switch(opção){
 ### > Observação
 
 É importante lembrar que o uso do `break` é obrigatório. Caso contrário, todos os códigos da lista serão executados.
-
 ##
