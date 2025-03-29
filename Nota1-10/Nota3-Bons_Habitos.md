@@ -16,3 +16,4 @@
 ## Planejamento de Soluções 
 
 >Usar um pseudocódigo ou fluxograma para poder ter ideias de como o programa vai funcionar e comunicar mais facilmente sobre sua ideia com quem não tem ideia de como funciona a programação.
+<hr>
