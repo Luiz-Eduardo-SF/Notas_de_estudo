@@ -29,3 +29,4 @@ Para definir / criar uma variável basta você escrever o tipo de dado que você
     float num2 = 2.32;
     double num3 = 3.141592;
 ```
+<hr>
