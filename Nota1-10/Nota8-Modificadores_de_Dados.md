@@ -97,3 +97,4 @@ static int segredo = 42; // Só visível dentro deste arquivo.
 
 - Local Preserva o valor entre chamadas.
 - Global Limita o escopo ao arquivo.
+<hr>
