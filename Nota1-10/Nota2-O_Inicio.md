@@ -36,4 +36,3 @@ Neste caso, ele retorna 0, indicando que o programa foi executado com sucesso.
 
 ## Observação
 > É muito importante estar atento ao uso do ``;`` (ponto e vírgula), pois, diferente de outras linguagens, o C exige o ``;`` para o funcionamento.
-##
