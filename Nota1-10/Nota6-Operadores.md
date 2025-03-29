@@ -93,3 +93,4 @@ a %= b == 0;
 | <code>&#124;&#124;</code>                                          | **Esquerda → Direita** |
 | `=` , `+=` , `-=` , `*=` , `/=` , `%=`        | **Direita &larr; Esquerda** |
 | `,`                                           | **Esquerda → Direita** |
+<hr>
