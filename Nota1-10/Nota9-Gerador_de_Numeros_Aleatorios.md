@@ -26,3 +26,4 @@ int main() {
 
 > **`rand() % 100`** &rarr; Nessa parte vocé utiliza o <ins>%</ins> no rand para limitar o número gerado a um intervalo específico.<br>
 Por exemplo: (rand() % 100) que limita o número em 100 possíveis casos, contanto com o 0, o que resulta em um número aleatório entre 0 e 99.
+<hr>
