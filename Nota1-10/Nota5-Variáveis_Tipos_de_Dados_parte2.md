@@ -108,4 +108,4 @@ Os ponteiros são comom papelzinhos que dizem onde algo está guardado, em vez d
 ```
 > Nesse código, primeiros criamos uma variável ``x`` de valor 10, depois criamos um ponteiro int que vai armazenar a variavel ``x`` nele.
 E por fim escrevemos o valor de x na tela utilizando o ponteiro no lugar da variável.
-
+<hr>
