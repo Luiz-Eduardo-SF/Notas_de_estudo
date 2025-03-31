@@ -1,4 +1,4 @@
-# Notas de Estudo
+# Notas de Estudo de C
 ## Propósito
 Este repositório foi criado para armazenar o conhecimento que estou adquirindo no meu curso de **Análise e Desenvolvimento de Sistemas**. Ele funcionará como um "caderno digital", servindo tanto para ganhar experiência com o GitHub quanto para compartilhar o que aprendo.
 
