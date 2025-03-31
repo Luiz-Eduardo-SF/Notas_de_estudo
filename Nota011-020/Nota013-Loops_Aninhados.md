@@ -84,3 +84,28 @@ int main() {
 ```
 
 > **Nota:** A escolha entre `for`, `while` e `do-while` depende do contexto e da necessidade de inicialização ou execução garantida do bloco de código. Todos os exemplos acima produzem o mesmo resultado, mas cada abordagem tem suas particularidades.
+
+## Utilidade dos Loops Aninhados
+
+1. **Processamento de Dados em Multicamadas**
+    - Ideias para estruturas hierárquicas (ex: tabelas de banco de dados).
+2. **Algoritmos de Ordenação / Pesquisa**
+    - Base de algoritmos de *Bubble Sort* (comparações / trocas repetidas). 
+3. **Problemas combinatórios**
+    - Geração de combinações ou permutações (ex: explorar todas as possibilidades).
+
+## Cuidados com Loops Aninhados
+
+- **Custo Computacional Alto:** Tempo de execução cresce exponencialmente conforme o número de níveis.
+
+- **Complexidade Algorítmica:**
+    - 2 loops aninhados: *O(n²)* &rarr; Quadrático.
+    - 3 loops aninhados: *O(n³)* &rarr; Cúbico (pode ser inviável para *n* grande).
+
+> **OBS: *n* representa o tamanho da entrada (ex.: número de elementos em uma lista, linhas em uma matriz, etc.).**
+
+
+ - **Dica:** Em casos de processamento pessado, considere alternativas como:
+    1. Algoritmos otimizados (ex: *QuickSort* em vez de *Bubble Sorte*).
+    2. Técnicas de memorização ou programação dinâmica.
+##
