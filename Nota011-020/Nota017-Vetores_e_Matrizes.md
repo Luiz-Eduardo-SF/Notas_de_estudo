@@ -20,4 +20,4 @@ Um vetor, portanto, é uma coleção ordenada de elementos, onde cada item pode 
 
 <img src="img/Nota017-Arrays.png" width="100%"></img>
 
-> Só lembrei agora que .md permite os comandos do HTML, fiquei tão feliz em saber kskskks
+> Só lembrei agora que .md permite os comandos do HTML como o ``<img>``, fiquei tão feliz em saber kskskks
