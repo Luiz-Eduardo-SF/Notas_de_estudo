@@ -220,3 +220,9 @@ $$
 ##
 
 > Confesso que nessa última parte eu precisei de uma ajuda da IA ksks
+
+<hr style = "color: #ff3838; height: 2px;">
+
+> Caso no seu dispositivo não esteja esteja mostrando a explicação como deveria e só tem um monte de código bizzaro, saiba que era para você estar vendo assim:
+
+<img width = 100% src="img/Nota018-Matrizes.png"></img>
