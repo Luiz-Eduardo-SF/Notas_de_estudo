@@ -1,4 +1,4 @@
-# Alguns Exemplos de Arrays e Matrizes
+# Alguns Exemplos de Arrays e Matrizes - Parte 1
 
 Nesses exemplos, eu vou colocar o código por completo, ou seja, haverá o `int main()` e o `#include` em todos eles. Além disso, não pretendo separar os códigos por etapas usando funções, pois sinto que assim ficará mais fácil para explicar e compreender.
 
@@ -221,8 +221,8 @@ $$
 
 > Confesso que nessa última parte eu precisei de uma ajuda da IA ksks
 
-<hr style = "color: #ff3838; height: 2px;">
+<hr>
 
-> Caso no seu dispositivo não esteja esteja mostrando a explicação como deveria e só tem um monte de código bizzaro, saiba que era para você estar vendo assim:
+Caso no seu dispositivo não esteja esteja mostrando a explicação como deveria e só tem um monte de código bizzaro, saiba que era para você estar vendo assim:
 
 <img width = 100% src="img/Nota018-Matrizes.png"></img>
