@@ -15,3 +15,4 @@ Este repositório foi criado para armazenar o conhecimento que estou adquirindo 
 - Por favor, caso encontrem algum erro, reportem para que eu possa corrigir no futuro. Obrigado.
 
 Avisos feitos, espero que essas anotações possam ajudar alguém no futuro.
+##
