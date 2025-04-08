@@ -34,6 +34,8 @@ p = &x; // Ponteiro aponta para x
 
 ## Exemplo
 
+### >> Variável e Ponteiro
+
 ```c
 #include <stdio.h>
 
@@ -43,6 +45,25 @@ int main(){
 
     printf("x = %d\n", x);
     printf("endereço de x = %p\n", p);
-    printf("")
+    printf("valor apontado por p = %d\n", *p);
+
+    return 0;
 }
 ```
+### >> Alterando Valores com Ponteiros
+
+```c
+#include <stdio.h>
+
+int main(){
+    int x = 5;
+    int *p = &x;
+
+    *p = 10;
+
+    printf("x = %d", x);
+
+    return 0;
+}
+```
+
