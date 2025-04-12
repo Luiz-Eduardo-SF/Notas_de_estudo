@@ -1,3 +1,3 @@
-## Por Favor Leia
+# Atualização da Situação
 
-<p style="color:#00ff00;">Hoje (09/04/2025) aconteceu um imprevisto e meu único notebook da positivo que eu usava para poder estudar e escrever códigos acabou quebrando, então eu não sei por quanto tempo eu vou ficar infelizmente sem poder atualizar, espero que entendam minha dificuldade.</p>
+Eu consegui temporariamente restaurar o notebook, então assim que der eu vou continuar atualizando o meu caderno com alguns outros estudos, porém não vai ter tanta frequência quanto antes pois o tema do meu estudo atual mudou, espero que possam entender.
